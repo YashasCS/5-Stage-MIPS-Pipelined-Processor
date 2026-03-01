@@ -4,7 +4,7 @@ Below are the simulations and the state diagrams I used for designing my 5 Stage
 
 ## Hazard Detection Unit (Without jal and jr instructions)
 
-### This part also uses Forwarding Unit
+### Forwarding Unit
 For R-type instructions:
 
 <img width="586" height="502" alt="image" src="https://github.com/user-attachments/assets/ca768957-b096-41d5-be22-19f13acd092f" />
@@ -13,7 +13,8 @@ For Immediate Instructions:
 
 <img width="586" height="502" alt="image" src="https://github.com/user-attachments/assets/78d2f96c-7420-4e5c-9662-9e355b6ed272" />
 
-State Machine & Flow chart without jal and jr: 
+### Hazard Detection Unit
+State Machine & Flow chart of Hazard Detection Unit without jal and jr: 
 
 <img width="581" height="582" alt="image" src="https://github.com/user-attachments/assets/127671c5-5a76-4606-b900-b2dabd1998af" />
 
