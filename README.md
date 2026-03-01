@@ -1,4 +1,4 @@
-<img width="837" height="328" alt="image" src="https://github.com/user-attachments/assets/bc0ed69a-f1a8-4b3c-914f-a816a4ffa5c0" /># <ins>5 Stage MIPS Pipeline Documentation and Behavioural Simulations</ins>
+# <ins>5 Stage MIPS Pipeline Documentation and Behavioural Simulations</ins>
 
 Below are the simulations and the state diagrams I used for designing my 5 Stage MIPS pipeline. All of these simulations were done on Xilinx Vivado and Virtex5 FPGA. 
 
