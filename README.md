@@ -1,4 +1,4 @@
-# <ins>5 Stage MIPS Pipeline Documentation and Behavioural Simulations</ins>
+# <ins>5 Stage MIPS Pipelined Processor Documentation and Behavioural Simulations</ins>
 
 Below are the simulations and the state diagrams I used for designing my 5 Stage MIPS pipeline. All of these simulations were done on Xilinx Vivado and Virtex5 FPGA. 
 
